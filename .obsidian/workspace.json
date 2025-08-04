@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9a7da514758d6ba6",
+        "id": "cf4bcbe2221e1e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb386b3cde4b4c5",
+            "id": "354a371e3531ac1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金融股票书籍/稳操胜券 winner take all.md",
+                "file": "交易日志/20250801交易记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "稳操胜券 winner take all"
-            }
-          },
-          {
-            "id": "0cec95f4405a37e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "金融交易资源/交易资源1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "交易资源1"
+              "title": "20250801交易记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "a3780917078c5f4e",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金融交易资源/交易资源1.md",
+                "file": "交易日志/20250721交易记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "交易资源1 的反向链接列表"
+              "title": "20250721交易记录 的反向链接列表"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金融交易资源/交易资源1.md",
+                "file": "交易日志/20250721交易记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "交易资源1 的出链列表"
+              "title": "20250721交易记录 的出链列表"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金融交易资源/交易资源1.md",
+                "file": "交易日志/20250721交易记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "交易资源1 的大纲"
+              "title": "20250721交易记录 的大纲"
             }
           }
         ]
@@ -184,40 +169,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cec95f4405a37e9",
+  "active": "354a371e3531ac1d",
   "lastOpenFiles": [
-    "视频/交易大师访谈.md",
-    "金融交易资源/交易资源1.md",
-    "金融交易资源",
-    "金融股票书籍/与天为敌-风险探索传奇.md",
-    "视频",
-    "金融股票书籍/贼巢.md",
-    "金融股票书籍/以趋势交易为生.md",
-    "金融股票书籍/华尔街幽灵.md",
-    "金融股票书籍/期权策略.md",
-    "金融股票书籍/股票量化交易的7个策略.md",
-    "金融股票书籍/金融怪杰-华尔街的顶级交易员.md",
-    "金融股票书籍/止损-如何克服贪婪和恐惧.md",
-    "金融股票书籍/价值投资的十项核心原则.md",
-    "金融股票书籍/未命名",
-    "金融股票书籍/以交易为生12.md",
-    "金融股票书籍/大空头.md",
-    "金融股票书籍/黑天鹅.md",
-    "金融股票书籍/最懂输的人才能成为赢家.md",
-    "金融股票书籍/股市真规则.md",
-    "金融股票书籍/对冲之王-华尔街量化投资传奇.md",
-    "金融股票书籍/稳操胜券 winner take all.md",
-    "金融股票书籍/战胜华尔街.md",
-    "金融股票书籍/怎样选择成长股.md",
-    "金融股票书籍/笑傲股市.md",
-    "金融股票书籍/澄明之境.md",
-    "金融股票书籍/伟大的博弈-华尔街金融帝国的崛起.md",
-    "金融股票书籍/趋势跟踪.md",
-    "金融股票书籍/对冲风云录 123.md",
-    "template/书籍简单模版.md",
-    "金融股票书籍",
-    "template",
-    "未命名/未命名",
-    "金融股票书籍"
+    "交易日志/20250731交易记录.md",
+    "交易日志/20250801交易记录.md",
+    "关注标的/持有标的/CRUB.md",
+    "关注标的/过往标的/UNH.md",
+    "关注标的/过往标的/INTC.md",
+    "关注标的/持有标的/SEZL.md",
+    "关注标的/持有标的/UPS.md",
+    "关注标的/持有标的/ROOT.md",
+    "关注标的/持有标的/EXEL.md",
+    "关注标的/持有标的/LMT.md",
+    "关注标的/持有标的/EDIT.md",
+    "关注标的/持有标的/BEAM.md",
+    "关注标的/持有标的/PLUS-氢能.md",
+    "金融股票书籍/彼得林奇的成功投资.md",
+    "关注标的/关注标的/STZ.md",
+    "关注标的/持有标的/RNXT.md",
+    "关注标的/关注标的/REAL.md",
+    "关注标的/关注标的/RBLX.md",
+    "关注标的/关注标的/PSIX.md",
+    "关注标的/关注标的/OXY.md",
+    "关注标的/关注标的/LUMN.md",
+    "关注标的/关注标的/KHC.md",
+    "关注标的/过往标的",
+    "关注标的/关注标的",
+    "关注标的/持有标的",
+    "交易日志/20250730交易记录.md",
+    "交易日志/20250729交易记录.md",
+    "金融交易资源/美股群-知识汇总.md",
+    "金融交易资源/麦田推荐交易资源.md",
+    "z附件/Pasted image 20250723160256.png",
+    "z附件/02. CEO & CFO Commentary  – Q1FY26_6.30.2025.pdf",
+    "z附件/Pasted image 20250724113423.png",
+    "z附件/Pasted image 20250723114253.png",
+    "z附件/2025psqtr2rslt.pdf",
+    "z附件/Pasted image 20250723133933.png",
+    "z附件/Pasted image 20250723133929.png",
+    "z附件/Pasted image 20250723133917.png",
+    "z附件/Pasted image 20250723133757.png",
+    "z附件/Pasted image 20250723133719.png",
+    "z附件/Pasted image 20250723132343.png",
+    "z附件/Pasted image 20250723132117.png",
+    "z附件/March Quarter 2025 Results.pdf",
+    "z附件",
+    "关注标的",
+    "交易日志",
+    "期权知识"
   ]
 }
